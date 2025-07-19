@@ -4,7 +4,7 @@
 
 ---  
 
-  <p>Estudante de Ciência da Computação, dedicada a aprender e aplicar conhecimentos para criar soluções eficientes e inovadoras. Estou focando minha jornada no desenvolvimento full developer, buscando dominar tanto o front-end quanto o back-end para transformar ideias em projetos completos e funcionais.</p> 
+  <p>Estudante de Ciência da Computação, dedicada a aprender e aplicar conhecimentos para criar soluções eficientes e inovadoras. Estou focando minha jornada no desenvolvimento Full Stack, buscando dominar tanto o front-end quanto o back-end para transformar ideias em projetos completos e funcionais.</p> 
   
 ---  
 
