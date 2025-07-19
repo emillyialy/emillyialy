@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="mailto:mineoemilly1@email.com"><img src="https://img.shields.io/badge/Email-FADADD?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/emillyialy"><img src="https://img.shields.io/badge/LinkedIn-FADADD?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/emilly-ialy-0b1093329/"><img src="https://img.shields.io/badge/LinkedIn-FADADD?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/emillyialy"><img src="https://img.shields.io/badge/GitHub-FADADD?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
