@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=800&color=FADADD&center=true&vCenter=true&width=700&lines=Emilly+Ialy,%0ADeveloper+Full+Stack" alt="typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=800&color=FADADD&center=true&vCenter=true&width=700&lines=Emilly+Ialy,%0AFull+Stack+Developer" alt="typing animation" />
 </p>  
 
 ---  
@@ -19,8 +19,8 @@
 ## ⭐ GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emillyialy&show_icons=true&theme=pastelt&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emillyialy&layout=compact&langs_count=8&theme=pastel&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emillyialy&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emillyialy&layout=compact&langs_count=8&theme=rose_pine&hide_border=true"/>
 </div>
 
 
