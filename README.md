@@ -9,14 +9,14 @@
 
 ###
 
-<h2 align="left">Sobre Mim 📢</h2>
+<h2 align="left">Sobre Mim </h2>
 
 ###
+🎓 Cursando Ciência Da Computação  
 
-- Cursando Ciência Da Computação
-- Estudando JavaScript, Java, engenharia de plataforma e desenvolvimento web fullstack  
-- Me aperfeiçoando em tecnologias modernas e na construção de soluções bem estruturadas.  
+📢 Estudando JavaScript, Java, engenharia de plataforma e desenvolvimento web fullstack   
 
+🚀 Me aperfeiçoando em tecnologias modernas e na construção de soluções bem estruturadas.   
 ###
 
 <h2 align="left">GitHub Stats</h2>
